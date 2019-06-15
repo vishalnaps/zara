@@ -1,0 +1,115 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+
+}
+
+h1{
+  color: #0c99c1;
+  font-size: 3.5em;
+  margin-top: 0;
+  font-family: 'Pacifico', cursive;
+
+
+}
+
+.web{
+  color: #0c99c1;
+  font-weight: lighter;
+}
+
+h2{
+  color: #0c99c1;
+
+}
+
+h3{
+  color: #0c99c1;
+  margin-top: 50px;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: 0;
+  width: 4%;
+  margin: 50px auto;
+}
+
+a{
+  color: #0c99c1;
+  text-decoration: none;
+  margin: 0 10px;
+
+}
+
+a:hover{
+  color: grey;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 90px;
+  background-color: #c1f6e7;
+
+}
+
+
+
+.bottom-container {
+  background-color: #c1f6e7;
+  padding: 50px 0 20px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 340px;
+
+}
+
+.mountain{
+  height: 480px;
+
+}
+
+.profile{
+height: 620px;
+
+}
+
+.skills{
+
+
+}
+
+.contact-me{
+
+  margin-bottom: 100px;
+
+}
+
+.profile-img{
+  padding-top: 50px;
+  height: 350px;
+
+}
+
+.font{
+  font-size: 20px;
+  width: 40%;
+  margin: 50px auto;
+}
+
+.copyright{
+  color: grey;
+  font-size: 0.75rem;
+  margin-top: 25px;
+}
